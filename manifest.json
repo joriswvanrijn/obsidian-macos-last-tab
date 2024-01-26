@@ -1,11 +1,10 @@
 {
-	"id": "sample-plugin",
-	"name": "Sample Plugin",
+	"id": "obsidian-macos-last-tab",
+	"name": "MacOS Last Tab",
 	"version": "1.0.0",
 	"minAppVersion": "0.15.0",
-	"description": "Demonstrates some of the capabilities of the Obsidian API.",
-	"author": "Obsidian",
-	"authorUrl": "https://obsidian.md",
-	"fundingUrl": "https://obsidian.md/pricing",
-	"isDesktopOnly": false
+	"description": "This plugin alters the behavior of closing a last Obsidian tab to match similar behavior of other MacOS apps.",
+	"author": "Joris W. van Rijn",
+	"authorUrl": "https://joriswvanrijn.com",
+	"isDesktopOnly": true
 }
